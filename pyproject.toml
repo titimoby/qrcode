@@ -13,6 +13,10 @@ dependencies = [
 [tool.poetry]
 # I coded with uv from astral.sh but Streamlit cloud need this section
 readme = "README.md"
+name = "qrcode"
+authors = "titimoby"
+version = "0.1.0"
+description = "Add your description here"
 
 [tool.poetry.dependencies]
 streamlit = "^1.39.0"
