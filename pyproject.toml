@@ -17,6 +17,7 @@ name = "qrcode"
 authors = ["titimoby"]
 version = "0.1.0"
 description = "Add your description here"
+requires-python = ">=3.12"
 
 [tool.poetry.dependencies]
 streamlit = "^1.39.0"
