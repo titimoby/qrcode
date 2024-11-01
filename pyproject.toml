@@ -7,3 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "streamlit>=1.39.0",
 ]
+
+[tool.poetry]
+# I coded with uv from astral.sh but Streamlit cloud need this section
+readme = "README.md"
